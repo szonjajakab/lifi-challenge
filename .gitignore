@@ -1,0 +1,5 @@
+bird/getBird
+birdImage/getBirdImage
+.terraform
+.terraform.lock.hcl
+terraform.tfvars
